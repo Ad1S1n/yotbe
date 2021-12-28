@@ -14,11 +14,11 @@ body {
 }
 
 .container {
-    background-image: linear-gradient(to top right, #ffa500, #ff0000);
+    background-image: linear-gradient(to top right, #f58ada, #8c00ff);
     padding: 3rem;
     border-radius: 1rem;
     position: relative;
-    box-shadow: 0 0 1rem #ff0000;
+    box-shadow: 0 0 1rem #ffffff;
 }
 h2 {
     font-size: 3rem;
